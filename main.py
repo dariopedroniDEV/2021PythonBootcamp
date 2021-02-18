@@ -1,16 +1,13 @@
-# This is a sample Python script.
-
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
+# You can use the basic math operator for math calculations.
+# To subdivide, you use "/"
+# But if you want to get back the remainder from a division, then you use "%"
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+# Per eseguire una potenza si usano due "**"
+2 ** 3 = (2*2)*2
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+# E' possibile usare le parentesi per dare un ordine logico ad una operazione matematica.
+2 + 10 * 10 + 3
+# Con parentesi
+(2 + 10) * (10+3)
+
